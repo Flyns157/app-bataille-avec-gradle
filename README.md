@@ -1,6 +1,6 @@
 # app-bataille-avec-gradle
 
-
+PS: comme j'étais tout seul j'ai imaginé Didier et Michel, mais il n'ont malheureusement pas pu travailler en même temps sur l'implémentation de mêmes fonctionalités, soyez cléments avec eux =| ...
 
 ## Getting started
 
